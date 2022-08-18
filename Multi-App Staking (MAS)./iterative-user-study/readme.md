@@ -104,3 +104,6 @@ https://www.figma.com/proto/Tx1lZc7us4SqCeAgbt1hBV/Threshold-Dapp?page-id=4787%3
 * Task 3 - Decrease the authorization of an app
 Prototype Link:
 https://www.figma.com/proto/Tx1lZc7us4SqCeAgbt1hBV/Threshold-Dapp?page-id=4787%3A270650&node-id=4875%3A289027&viewport=-140%2C165%2C0.03&scaling=min-zoom&starting-point-node-id=4875%3A289027
+
+## 🦄 Report
+https://docs.google.com/presentation/d/1PG0OR-g7etk87_1KbRMjrLN4u2tCib-7kySF0lcV3Tk/edit?usp=sharing
