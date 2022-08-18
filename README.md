@@ -1,5 +1,5 @@
 # Web3-UX-User-Research
-__________________________
+
 This document is aiming to encompass all the UX methodologies and processes that we shall apply on our design research efforts. 
 This is an iterative approach for all the processes we intend to apply in our future pursuits.
 
