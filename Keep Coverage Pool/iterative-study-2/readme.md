@@ -1,4 +1,6 @@
-* 🐱 User Researcher: Sasha Tanase, Liz Shinn
+![Cover_2](https://user-images.githubusercontent.com/40768736/191755553-802e5caf-fb6f-4cc7-8895-ea12ed6e1a7a.png)
+
+* 🐱 User Researcher: Sasha Tanase
 * 👓 Observers: Liz Shinn, Sasha Tanase, Michal, Rafal, Doug von Kohorn
 * 🚀 Status -  Finished
 ---
@@ -96,4 +98,4 @@ Why it didn’t score 7? Reasons stated by the participants:
 
 # 📕 Report
 
-https://docs.google.com/presentation/d/1eMba_satCFmcvb-PAkQDn48JRAMCbV-p0jz08rLs39Y/edit?usp=sharing
+[Report](https://github.com/threshold-network/UX-User-Research/blob/main/Keep%20Coverage%20Pool/iterative-study-2/Keep%20Iterative%20User%20Research%20-%20Coverage%20Pools%20Usability%20Testing%20Round%202%20github.pdf)
