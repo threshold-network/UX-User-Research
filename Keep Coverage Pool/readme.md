@@ -27,5 +27,5 @@ Points we needed to address due to high complexity:
 * Due to the fact that the period between the activation of the withdrawal and the claiming token window is very long - 21 days - we made sure we help the users avoid forgetting so we have given them the option to Add to calendar and also made the decision to add in the overview page of the dashboard the Pending withdrawal modal so whenever they come to the dashboard they could see how long will it take until they need to claim the tokens.
 
 # 💻 Table of Contents
-1. [Iterative User Study 1](https://github.com/threshold-network/UX-User-Research/tree/main/Keep%20Coverage%20Pool/iterative-study-round-1/readme.md)
-2. [Iterative User Study 2](https://github.com/threshold-network/UX-User-Research/blob/main/Keep%20Coverage%20Pool/iterative-study-2/readme.md)
+1. [Iterative User Study 1](./iterative-study-round-1/readme.md)
+2. [Iterative User Study 2](./iterative-study-2/readme.md)
