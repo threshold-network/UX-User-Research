@@ -96,4 +96,4 @@ The research study methodology is the following one:
 
 ### 🦄 Report
 
-[Report](https://github.com/threshold-network/UX-User-Research/blob/main/tBTC-user-studies/generative-user-study/tBTC%20Generative%20User%20Research.pdf)
+[Report](./tBTC%20Generative%20User%20Research.pdf)

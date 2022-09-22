@@ -10,5 +10,5 @@
 * Probe our assumptions with real data
 
 # 📚 Table of Contents
-1. [Generative User Study](https://github.com/threshold-network/UX-User-Research/tree/main/tBTC-user-studies/generative-user-study)
-2. [Iterative User Study](https://github.com/threshold-network/UX-User-Research/tree/main/tBTC-user-studies/Iterative-User-Study%20.)
+1. [Generative User Study](./generative-user-study/readme.md)
+2. [Iterative User Study](./Iterative-User-Study/readme.md)

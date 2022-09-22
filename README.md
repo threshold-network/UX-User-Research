@@ -16,9 +16,9 @@ This is an iterative approach for all the processes we intend to apply in our fu
 
 ### 💻 Products
 
-1. [Keep Network Coverage Pools](https://github.com/threshold-network/UX-User-Research/blob/main/Keep%20Coverage%20Pool/radme.md)
-2. [Multi-App Staking (MAS)](https://github.com/threshold-network/UX-User-Research/tree/main/Multi-App%20Staking%20(MAS))
-3. [tBTC](https://github.com/threshold-network/UX-User-Research/tree/main/tBTC-user-studies)
+1. [Keep Network Coverage Pools](./Keep%20Coverage%20Pool/)
+2. [Multi-App Staking (MAS)](./Multi-App%20Staking%20(MAS)/)
+3. [tBTC](./tBTC/)
 
 ### 📓 Guidelines
-1. [Skinny Interview Guideline](https://github.com/threshold-network/UX-User-Research/blob/main/Guidelines/Skinny%20Interview%20Guideline.md)
+1. [Skinny Interview Guideline](./Guidelines/Skinny%20Interview%20Guideline.md)

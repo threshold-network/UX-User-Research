@@ -42,4 +42,4 @@ Sep 27	Present the Report to the Design Team
 
 # 🦄 Report 
 
-[Report](https://github.com/threshold-network/UX-User-Research/blob/main/Keep%20Coverage%20Pool/iterative-study-round-1/Keep%20Iterative%20User%20Research%20Github.pdf)
+[Report](./Keep%20Iterative%20User%20Research%20Github.pdf)

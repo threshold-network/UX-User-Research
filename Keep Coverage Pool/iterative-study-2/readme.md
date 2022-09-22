@@ -98,4 +98,4 @@ Why it didn’t score 7? Reasons stated by the participants:
 
 # 📕 Report
 
-[Report](https://github.com/threshold-network/UX-User-Research/blob/main/Keep%20Coverage%20Pool/iterative-study-2/Keep%20Iterative%20User%20Research%20-%20Coverage%20Pools%20Usability%20Testing%20Round%202%20github.pdf)
+[Report](./Keep%20Iterative%20User%20Research%20-%20Coverage%20Pools%20Usability%20Testing%20Round%202%20github.pdf)
