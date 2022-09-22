@@ -23,4 +23,4 @@ Additional Context:
 * Probe our assumptions with real data
 
 # 📚 Table of Contents
-1. [Usability Study]()
+1. [Usability Study](https://github.com/threshold-network/UX-User-Research/blob/main/Multi-App%20Staking%20(MAS)./iterative-user-study/readme.md)
