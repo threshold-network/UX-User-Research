@@ -1,3 +1,5 @@
+![Study 1](https://user-images.githubusercontent.com/40768736/191753911-280e3b1d-7fde-4e29-a301-2b48873e5eaa.png)
+
 * 🌐 Team
 * 🐱 User Researcher: Sasha Tanase
 * 👓 Observer: none
