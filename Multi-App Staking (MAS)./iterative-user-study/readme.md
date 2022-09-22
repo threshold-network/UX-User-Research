@@ -1,3 +1,5 @@
+![Cover_report](https://user-images.githubusercontent.com/40768736/191760677-3391c1c4-2b71-4958-a00c-20aa2f854a59.png)
+
 # 🌐Overview
 
 We will test the Staking Flow alongside with the Multiple Application Authorization Flow for existing stakers and new stakers. 
