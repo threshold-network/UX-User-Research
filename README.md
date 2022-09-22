@@ -1,3 +1,5 @@
+![Cover](https://user-images.githubusercontent.com/40768736/191744726-e69f3c99-8e1e-442c-85e5-cd6cb6f93faa.png)
+
 # Web3-UX-User-Research
 
 This document is aiming to encompass all the UX methodologies and processes that we shall apply on our design research efforts. 
