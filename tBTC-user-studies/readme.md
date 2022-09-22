@@ -1,4 +1,5 @@
-![Cover](https://user-images.githubusercontent.com/40768736/191799830-1f898e62-0d09-4469-8ca8-9487e60c07c6.png)
+![Cover](https://user-images.githubusercontent.com/40768736/191801521-af4e04f0-666d-4784-bb82-f691f1c1a208.png)
+
 # 🎯 Goals
 
 * Map out thoughts and ideas about the tBTC users
