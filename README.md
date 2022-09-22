@@ -14,8 +14,8 @@ This is an iterative approach for all the processes we intend to apply in our fu
 
 # Table of Contents
 
-## 💻 Products
+### 💻 Products
 
-1. Keep Network Coverage Pools
-2. Multi-App Staking (MAS)
-3. tBTC
+1. [Keep Network Coverage Pools](https://github.com/threshold-network/UX-User-Research/tree/main/Keep%20Coverage%20Pool)
+2. [Multi-App Staking (MAS)](https://github.com/threshold-network/UX-User-Research/tree/main/Multi-App%20Staking%20(MAS))
+3. [tBTC](https://github.com/threshold-network/UX-User-Research/tree/main/tBTC-user-studies)
