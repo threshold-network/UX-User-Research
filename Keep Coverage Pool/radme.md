@@ -1,3 +1,4 @@
+![Cover](https://user-images.githubusercontent.com/40768736/191750576-25dd94f3-4521-4e28-ba87-d9cd892b0dac.png)
 # 🐱‍💻 Description of the project
 
 A coverage pool is a flexible new money lego that can be used as a back-stop or "buyer of last resort" in on-chain financial systems. 
