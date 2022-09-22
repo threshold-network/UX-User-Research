@@ -11,3 +11,11 @@ This is an iterative approach for all the processes we intend to apply in our fu
 * Have a go-to place where any designer can find guidelines and best practices applied within the Design Team.
 * Evolve and iterate the processes in the pursuit of finding whatever suits better our team efforts.
 * Have a Single Source of Truth for all past User Research efforts.
+
+# Table of Contents
+
+## 💻 Products
+
+1. Keep Network Coverage Pools
+2. Multi-App Staking (MAS)
+3. tBTC
