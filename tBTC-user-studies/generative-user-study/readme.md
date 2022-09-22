@@ -1,3 +1,4 @@
+![Cover_2](https://user-images.githubusercontent.com/40768736/191801630-de4f0a97-6ce3-4bc5-b95c-c7450579f35f.png)
 # 🌐Overview
 
 ## 🎯 Goals
@@ -123,4 +124,4 @@ Channels - twitter, discord and web3UX user panel
 
 ### 🦄 Report
 
-https://docs.google.com/presentation/d/1WGDTnnzO8HaLaDVEaWbg-sR6aJ8aBC31lW6faYFAoIM/edit?usp=sharing
+[Report](https://github.com/threshold-network/UX-User-Research/blob/main/tBTC-user-studies/generative-user-study/tBTC%20Generative%20User%20Research.pdf)
