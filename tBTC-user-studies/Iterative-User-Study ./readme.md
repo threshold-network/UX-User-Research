@@ -1,3 +1,4 @@
+![Cover_3](https://user-images.githubusercontent.com/40768736/191802105-7ce345d6-a9d8-47fe-9171-3425706c5ede.png)
 # 🌐Overview
 
 ## 🎯 Goals
@@ -51,4 +52,4 @@ After each interview there will be a debriefing session.
 
 # 🦄 Report
 
-https://docs.google.com/presentation/d/1-ZGLATrVhhRRHnxRNemDpy3hX8AverSiXQq6BLcumE4/edit?usp=sharing
+[Report](https://github.com/threshold-network/UX-User-Research/blob/main/tBTC-user-studies/Iterative-User-Study%20./tBTC%20Iterative%20User%20Study.pdf)
