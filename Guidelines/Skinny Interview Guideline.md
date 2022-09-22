@@ -13,7 +13,9 @@ The interview is not about your opinions is about your users’ opinions so you 
 Be ready to ask questions for which you think you know the answer
 
 You may already have an idea about how your participant does some things from different mediums or by something she said during the interview, or assume because this is the fifth person you have interviewed and you start to see a pattern.
-However refrain from not asking the question and ask it anyway. Do not be afraid of asking extra details. You are there to learn about your users and usually people are happy to show and talk if they are listened to.
+However refrain from not asking the question and ask it anyway.
+
+Do not be afraid of asking extra details. You are there to learn about your users and usually people are happy to show and talk if they are listened to.
 👩‍🏫 They are the expert and you the novice.
 
 ### Before interview - Interviewer prepping
@@ -28,7 +30,8 @@ However refrain from not asking the question and ask it anyway. Do not be afraid
 * get on the call before your participant and calm your breath, most of them will run a bit late, just enough to forget you were nervous
 * silence your mobile phone, and other apps that might produce sounds and noises, all of these will break the participant’s narrative and focus
 
-During the interview you should be fully engaged with your participant. People tend to lose their interest if you are not interested, And after all why would you be interested in something else? You are there to pick this person’s brains which is a very nice opportunity. Don’t miss your chance!
+During the interview you should be fully engaged with your participant. People tend to lose their interest if you are not interested, And after all why would you be interested in something else?
+You are there to pick this person’s brains which is a very nice opportunity. Don’t miss your chance!
 * do not check your e-mail
 * put your phone away from you
 * do not read on the latest post on your discord server while running an interview
@@ -37,7 +40,9 @@ During the interview you should be fully engaged with your participant. People t
 😵After an interview you will usually be in a state between energized and exhausted, I am usually exhausted and lifeless.
 
 You not only harvested a lot of new information but you have also made an intense connection with a totally new person.
+
 👀 It’s your job to develop rapport by the course of the user interview. By all means recruit participants who are articulate, outgoing, and eager to be part of the interview. 
+
 🙋‍♀️ Of course you will run into participants who aren’t so open but patient and stay curious.
 
 ### Listening and reacting
