@@ -1,3 +1,4 @@
+![Cover_1](https://user-images.githubusercontent.com/40768736/191808161-8a2bc42c-ba93-4727-8a02-19b2032c8aff.png)
 # 👙 Skinny Interview Guideline for User Researchers and Product People
 ### The brain dump/ Assumption Mapping
 The objective for this is to get out of our heads what hunches we have, assumptions theories, opinions closely held, different beliefs and hypothesis.
