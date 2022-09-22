@@ -94,34 +94,6 @@ The research study methodology is the following one:
 * Report
 
 
-### ⏲ Project Timeline
-
-Date	Task
-Apr 1	Assumption Mapping with the team
-Apr 5	Send out Interview recruitment announcement and screener
-Apr 6	Interview Script
-Apr 6	Schedule interviews
-Apr 11	Conduct Interviews
-Apr 27	Analyze Data (4-5 days)
-May 2	Distill Data into a Report
-May 2	Present the Report to the Threshold Team
-
-After each interview there will be a debriefing session. 
-
-
-### 🧪 Screener
-
-
-https://threshold-research.typeform.com/BTC-User-Study
-📩 Interview Participants Recruiting Announcement
-If you: 
-👉 hold/held tokenized/bridge/wrapped BTC
-👉 hold BTC I am looking to talk to you in a User Study.
-You will be paid 60 USDC. 
-Enroll here -  https://bit.ly/3r88h8n 
-
-Channels - twitter, discord and web3UX user panel
-
 ### 🦄 Report
 
 [Report](https://github.com/threshold-network/UX-User-Research/blob/main/tBTC-user-studies/generative-user-study/tBTC%20Generative%20User%20Research.pdf)
