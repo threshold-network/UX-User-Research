@@ -1,3 +1,4 @@
+![Cover](https://user-images.githubusercontent.com/40768736/191799830-1f898e62-0d09-4469-8ca8-9487e60c07c6.png)
 # 🎯 Goals
 
 * Map out thoughts and ideas about the tBTC users
@@ -6,3 +7,7 @@
 * Narrow down the most important users for tBTC users - from the Assumption mapping Workshop the team stated that the most important usersfor tBTC are the ones who will mint and unmint several times.
 * Identify team’s blind spots on tBTC and BTC user behaviours
 * Probe our assumptions with real data
+
+# 📚 Table of Contents
+1. [Generative User Study](https://github.com/threshold-network/UX-User-Research/tree/main/tBTC-user-studies/generative-user-study)
+2. [Iterative User Study](https://github.com/threshold-network/UX-User-Research/tree/main/tBTC-user-studies/Iterative-User-Study%20.)
